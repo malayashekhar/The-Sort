@@ -1,0 +1,3 @@
+/Users/malayashekhar/Desktop/SFML/2. The Sort/src/cmake-build-debug/CMakeFiles/The_Sort.dir
+/Users/malayashekhar/Desktop/SFML/2. The Sort/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/malayashekhar/Desktop/SFML/2. The Sort/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir

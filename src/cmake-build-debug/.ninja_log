@@ -1,0 +1,14 @@
+# ninja log v5
+668	826	1720798221679434829	3__The_Sort	6fc3bb0ca2ce7155
+0	463	1720801972670084145	CMakeFiles/The_Sort.dir/event_manager.cpp.o	4ee40c251d4a8b9e
+0	475	1720801972682447376	CMakeFiles/The_Sort.dir/window_manager.cpp.o	972390de5cc81f6e
+1	488	1720801972695153939	CMakeFiles/The_Sort.dir/sorts/bubblesort.cpp.o	2fff762349e6201
+0	493	1720801972700139164	CMakeFiles/The_Sort.dir/main.cpp.o	98c3d9551f433ff4
+0	503	1720801972710186406	CMakeFiles/The_Sort.dir/sort_manager.cpp.o	6786e0790912d41e
+0	550	1720801972756617677	CMakeFiles/The_Sort.dir/column_manager.cpp.o	958ebc91b4c8bc3b
+465	804	1720801973008843310	CMakeFiles/The_Sort.dir/sorts/insertionsort.cpp.o	77e696271b1c3ce5
+476	810	1720801973017958056	CMakeFiles/The_Sort.dir/sorts/selectionsort.cpp.o	f00e8c0205b3b054
+488	824	1720801973032495610	CMakeFiles/The_Sort.dir/sorts/radixsort.cpp.o	cf0d1cb614d118f5
+503	827	1720801973034790682	CMakeFiles/The_Sort.dir/sorts/quicksort.cpp.o	f62f0b9b9df7b232
+494	833	1720801973040821902	CMakeFiles/The_Sort.dir/sorts/mergesort.cpp.o	4e0e399a66ef3701
+833	870	1720801973079895126	The_Sort	a74a73c2a2ffa7d9
