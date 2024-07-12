@@ -2,7 +2,7 @@
 # The Sort
 
 ## Overview
-**The Sort** is a graphical simulation of various sorting algorithms implemented in C++ using the SFML library. It visually demonstrates how different sorting algorithms work.
+**The Sort** is a graphical simulation software of various sorting algorithms implemented in C++ using the SFML library. It visually demonstrates how different sorting algorithms work.
 This project is designed to help users understand the inner workings of these algorithms through interactive and visual representation.
 
 ## Preview
