@@ -5,6 +5,16 @@
 **The Sort** is a graphical simulation of various sorting algorithms implemented in C++ using the SFML library. It visually demonstrates how different sorting algorithms work.
 This project is designed to help users understand the inner workings of these algorithms through interactive and visual representation.
 
+## Preview
+
+![bubblesort](https://github.com/user-attachments/assets/fe2e28db-1f8a-4220-835d-2bffb17162b4)
+![insertionsort](https://github.com/user-attachments/assets/fdbcc4e6-7c8d-442b-8265-bdfcb165b7fd)
+![selectionsort](https://github.com/user-attachments/assets/1b5ea112-b880-406e-84e5-34d7e43d8249)
+![radixsort](https://github.com/user-attachments/assets/3f90b232-2f2f-4e43-888a-644f48a5a964)
+![mergesort](https://github.com/user-attachments/assets/e06a3bef-8582-4b22-9fd1-bd6dc0eabf82)
+![quicksort](https://github.com/user-attachments/assets/9bf3edd6-273b-4540-9bf1-46820d1bc055)
+
+
 ## Features
 - **Graphical Visualization:** Watch sorting algorithms in action with clear and colorful visualizations.
 - **Multiple Algorithms:** Includes Bubble Sort, Insertion Sort, Selection Sort, Radix Sort, Merge Sort, and Quick Sort.
